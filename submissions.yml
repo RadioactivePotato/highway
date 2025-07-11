@@ -1,6 +1,4 @@
 projects:
-  - "https://github.com/RadioactivePotato/krunchpad"
-  - "https://github.com/RadioactivePotato/krunchboard"
   - "https://github.com/MithilSaiReddy/mp3-player"
   - "https://github.com/twinengine34/sukhoiboard"
   - "https://github.com/Aaruni29/mercboard"
@@ -809,3 +807,5 @@ projects:
   - "https://github.com/AdrianR3/GripCtrl"
   - "https://github.com/Skeffry/Flight-Stick"
   - "https://github.com/Keyaan-07/PicoKey"
+  - "https://github.com/RadioactivePotato/krunchpad"
+  - "https://github.com/RadioactivePotato/krunchboard"
